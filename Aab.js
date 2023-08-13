@@ -42,7 +42,11 @@ const Aab =() => {
                   <a href="https://youtu.be/fcs772I2dAA">고해치 day4</a>
                   <p>요시노군 도쓰카와무라-히라다니 에서 다나베시-혼구초카와유 까지</p>
                </div>
-               
+               <div style={{border:'1px solid white'}}>
+                  <h3>전구간</h3>
+                  <a href="#">전구간</a>
+                  <p>전영우 교수 촬영,편집.</p>
+               </div>
             </div>
            
             <div>
